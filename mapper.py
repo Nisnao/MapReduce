@@ -1,4 +1,3 @@
-%%writefile mapper.py
 
 #!/usr/bin/env python
 
